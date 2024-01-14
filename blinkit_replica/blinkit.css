@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 1px;
+
+}
+nav{
+    margin-top: 10px;
+    display: flex;
+}
+
+.logo{
+    height: 45px;
+    width: 70px;
+
+}
+.select-loc{
+
+    font-size: 7px;
+    height: 12px;
+
+}
+.Searchbar{
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 7px;
+    margin-left:15px ;
+    display: flex;
+    border: 1px groove black;
+}
+.search-logo{
+    margin-left: 10px;
+    margin-top: 4px;
+    height: 15px;
+    width: 15px;
+}
+.search{
+    border: 1px solid white;
+    margin-left: 2px;
+    /* margin-top:10px; */
+    height: 30px;
+    width: 300px;
+    border-radius: 0px 7px 7px 0px;
+}
+.l{
+    font-style: normal;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.buy{
+    background-color: rgba(0, 128, 0, 0.822);
+    margin-left: 25px;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+}
+.section1{
+    height: 140px;
+    width: 760px;
+}
+.sec2{
+    margin-left: 12px;
+    display: flex;
+}
+.section2{
+    margin-left: 5px; ;
+    height: 82px;
+    width: 115px;
+
+}
+.sec3{
+    flex-wrap: wrap;
+    margin-left: 12px;
+    display: flex;
+}
+.section3{
+    margin-left: 1px; ;
+    height: 80px;
+    width: 69px;
+
+}
+.sec4{
+    background-color: #ffffff;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  
+    display: flex;
+    height: auto;
+    width: auto;
+    /* border: 1px solid red; */
+}
+.section4{
+    border-radius: 10px;
+    margin-left: 10px;
+    height: 170px;
+    width: 120px;
+    border: 1px outset black;
+}
+.foot{
+    height: 100px;
+    
+    text-align: center;
+    background-color: rgb(236, 228, 141);
+    color: red;
+}
+.foot h4{
+    margin-top: 50px;
+}
